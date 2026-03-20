@@ -3,6 +3,8 @@ Hi, I'm Pranithaa
 🚀 I enjoy creating impactful solutions using technology and continuously improving my skills through hands-on projects and learning.
 
 
+
+
 🚀 About Me
 
 🎯 Interested in building real-world applications that solve practical problems
@@ -10,12 +12,16 @@ Hi, I'm Pranithaa
 📊 Exploring data-driven solutions and intelligent systems
 💡 Love learning new technologies and applying them in projects
 
+
+
 🛠️ Skills
 
 Languages: Python, Java, C, SQL
 Web & Tools: HTML, CSS, React.js, Node.js, Git, Docker, AWS
 AI/ML: NLP, Computer Vision, Generative AI, Prompt Engineering
 Core: Data Structures & Algorithms, API Development
+
+
 
 📌 Projects Overview
 
@@ -34,12 +40,16 @@ Touch-free drawing system using hand gestures with Computer Vision (OpenCV & Med
 🔹 NLP-Based Message Classifier
 Machine learning model to classify SMS messages as spam or ham using NLP techniques.
 
+
+
 🎯 Interests
 
 ✨ Building real-world projects
 ✨ Solving challenging problems
 ✨ Data Analysis & Visualization
 ✨ Artificial Intelligence & Machine Learning
+
+
 
 🌿 Hobbies
 
@@ -51,5 +61,7 @@ Machine learning model to classify SMS messages as spam or ham using NLP techniq
 🚀 Goal
 
 To build impactful AI-driven solutions and grow as a software engineer.
+
+
 
 💡 “Consistency and curiosity drive growth.”
