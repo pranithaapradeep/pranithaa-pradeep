@@ -18,7 +18,7 @@ AI/ML            : NLP, Computer Vision, Generative AI, Prompt Engineering
 Core Concepts    : Data Structures, Algorithms, API Development  
 
 
-Projects Overview
+Projects Overview:
 1. Debt Repayment Planner
    Full-stack application to manage loans and visualize repayment strategies 
    using Snowball and Avalanche methods.
