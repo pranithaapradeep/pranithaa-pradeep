@@ -4,14 +4,16 @@ Hi, I'm Pranithaa
 Computer Science student with a strong interest in problem solving, building real-world solutions, data analysis, and Artificial Intelligence/Machine Learning.
 Focused on developing practical applications that solve real-world problems while continuously improving technical and analytical skills.
 
-About Me
+About Me:
+
 • Interested in building real-world applications  
 • Strong focus on Data Structures and problem solving  
 • Exploring AI/ML and data-driven solutions  
 • Committed to continuous learning and improvement  
 
 
-Skills
+Skills:
+
 Languages        : Python, Java, C, SQL  
 Web & Tools      : HTML, CSS, React.js, Node.js, Git, Docker, AWS  
 AI/ML            : NLP, Computer Vision, Generative AI, Prompt Engineering  
@@ -37,14 +39,16 @@ Projects Overview:
    Machine learning model to classify SMS messages as spam or ham using NLP.
 
    
-Interests
+Interests:
+
 • Building real-world projects  
 • Problem solving  
 • Data analysis  
 • Artificial Intelligence and Machine Learning  
 
 
-Hobbies
+Hobbies:
+
 • Reading books  
 • Walking and running  
 • Yoga  
