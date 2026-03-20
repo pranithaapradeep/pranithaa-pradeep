@@ -1,64 +1,55 @@
 Hi, I'm Pranithaa
+💻 Computer Science student passionate about problem solving, building real-world projects, data analysis, and AI/ML.
+🚀 I enjoy creating impactful solutions using technology and continuously improving my skills through hands-on projects and learning.
 
-I am a Computer Science student with a strong interest in problem solving, building real-world solutions, data analysis, and Artificial Intelligence/Machine Learning. I enjoy developing practical applications that address real-world problems and continuously improving my technical skills through hands-on projects and learning.
 
-About Me
+🚀 About Me
 
-Interested in building real-world applications that solve practical problems
+🎯 Interested in building real-world applications that solve practical problems
+🧠 Strong focus on Data Structures, problem solving, and AI/ML
+📊 Exploring data-driven solutions and intelligent systems
+💡 Love learning new technologies and applying them in projects
 
-Focused on Data Structures, problem solving, and AI/ML
-
-Exploring data-driven solutions and intelligent systems
-
-Committed to continuous learning and skill development
-
-Skills
+🛠️ Skills
 
 Languages: Python, Java, C, SQL
-
-Web and Tools: HTML, CSS, React.js, Node.js, Git, Docker, AWS
-
+Web & Tools: HTML, CSS, React.js, Node.js, Git, Docker, AWS
 AI/ML: NLP, Computer Vision, Generative AI, Prompt Engineering
+Core: Data Structures & Algorithms, API Development
 
-Core: Data Structures and Algorithms, API Development
+📌 Projects Overview
 
-Projects Overview
+🔹 Debt Repayment Planner
+A full-stack application to manage loans and visualize repayment strategies (Snowball & Avalanche methods).
 
-Debt Repayment Planner
-Developed a full-stack application to manage multiple loans and visualize repayment strategies using Snowball and Avalanche methods.
+🔹 Sports Event Validation & Sentiment Analysis
+Python-based system for validating sports data and performing sentiment analysis using NLP.
 
-Sports Event Validation and Sentiment Analysis
-Built a Python-based system to validate sports event data and perform sentiment analysis using NLP techniques.
+🔹 Image Encryption using Steganography
+Secure application to hide encrypted messages inside images using LSB technique.
 
-Image Encryption using Steganography
-Created a secure application to hide encrypted messages inside images using LSB steganography.
+🔹 Air Canvas (AI Project)
+Touch-free drawing system using hand gestures with Computer Vision (OpenCV & MediaPipe).
 
-Air Canvas
-Developed a computer vision-based application for touch-free drawing using hand gesture recognition.
+🔹 NLP-Based Message Classifier
+Machine learning model to classify SMS messages as spam or ham using NLP techniques.
 
-NLP-Based Message Classifier
-Built a machine learning model to classify SMS messages as spam or ham using NLP techniques.
+🎯 Interests
 
-Interests
+✨ Building real-world projects
+✨ Solving challenging problems
+✨ Data Analysis & Visualization
+✨ Artificial Intelligence & Machine Learning
 
-Building real-world projects
+🌿 Hobbies
 
-Problem solving
+📚 Reading books
+🚶 Walking & Running
+🧘 Yoga
+🏊 Swimming
 
-Data analysis
+🚀 Goal
 
-Artificial Intelligence and Machine Learning
+To build impactful AI-driven solutions and grow as a software engineer.
 
-Hobbies
-
-Reading books
-
-Walking and running
-
-Yoga
-
-Swimming
-
-Goal
-
-To build impactful AI-driven solutions and grow as a software engineer in a product-based company.
+💡 “Consistency and curiosity drive growth.”
